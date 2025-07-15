@@ -5,7 +5,7 @@ from utility import check_password
 
 st.set_page_config(
     layout="centered",
-    page_title="My Streamlit App - Demo"
+    page_title="My Streamlit App - Demo second attempt"
 )
 
 # Do not continue if valid_password is not True.
